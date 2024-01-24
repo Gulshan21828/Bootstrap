@@ -1,0 +1,27 @@
+.container{
+    border: 5px solid green;
+}
+.container-fluid{
+    border: 5px solid red;
+}
+.row{
+    border: 10px solid skyblue;
+}
+.yellow{
+    background: yellow;
+    /* font-size: 22px; for baseline*/
+}
+.orange{
+    background: orange;
+    /* font-size: 12px; for baseline*/
+}
+.pink{
+    background: pink;
+}
+.blue{
+    background: blue;
+    /* font-size: 18px; for baseline*/
+}
+.cyan{
+    background: cyan;
+}
